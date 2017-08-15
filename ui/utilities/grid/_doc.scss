@@ -12,7 +12,7 @@
  *
  * If you want your application to fill 100% of the width and height of the viewport and nest other grids inside, use the top-level app helper class <CodeClass className="grid--frame" />. An assortment of <CodeClass className="container"/> classes are available to contain your grids.
  *
- * #### Grid Items (Regions/Colums)
+ * #### Grid Items (Regions/Columns)
  *
  * When you add the class <CodeClass className="col" /> to the grid items, no padding or gutters are added. They are simply divisions of their parent. If you want gutters, add one of the spacing utility classes such as <CodeClass className="p-horizontal--small" />, <CodeClass className="p-horizontal--medium" />, <CodeClass className="p-horizontal--large" />, <CodeClass className="p-around--small" />, <CodeClass className="p-around--medium" /> or <CodeClass className="p-around--large" />. These will add different sized gutters to the left and right side of your column.
  *
